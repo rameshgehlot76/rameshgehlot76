@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science Undergraduate
+- 🎓 Computer Science Undergraduate
 - 🌍 Based in Mumbai, India
 - 🚀 Passionate about building real-world Python and backend projects
 - 🤖 Interested in AI, ML, and Automation
