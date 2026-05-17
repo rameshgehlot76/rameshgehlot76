@@ -17,6 +17,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rameshgehlot76&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -49,14 +57,26 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rameshgehlot76&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshgehlot76&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshgehlot76&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshgehlot76&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
+
+## 🌐 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshgehlot76&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+--- 
 
 ## 🏆 Certificates & Achievements
 
@@ -93,6 +113,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rameshgehlot76&color=00B4D8&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">⭐ <i>If you like my projects, consider giving them a star!</i> ⭐</p>
+  <br/><br/>
+  <i>Thanks for visiting my profile! Let's build something amazing together 🚀</i>
+</p>  
