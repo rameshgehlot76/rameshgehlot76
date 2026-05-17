@@ -84,7 +84,10 @@
   <a href="https://github.com/rameshgehlot76">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+  <a href="https://www.instagram.com/_rameshgehlot12">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 
