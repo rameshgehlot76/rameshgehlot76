@@ -99,7 +99,13 @@
   <a href="https://www.instagram.com/_rameshgehlot12">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p> 
+  <a href="https://twitter.com/Ramesh_G_72">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.threads.net/@_rameshgehlot12">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
