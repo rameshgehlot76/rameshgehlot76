@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ramesh Gehlot 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Python+Developer;FastAPI+%7C+MongoDB+%7C+REST+APIs;Building+Real-World+Projects;Aspiring+Software+Engineer+at+MNCs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Python+Developer;FastAPI+%7C+Flask+%7C+MongoDB+%7C+REST+APIs;Building+Real-World+Projects;Aspiring+Software+Engineer+at+MNCs" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +29,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,6 +48,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [📈 StockLens](https://github.com/rameshgehlot76/stock-price-tracker) | Real-time stock tracker with interactive charts & moving averages | Python, Flask, yfinance, Plotly, pandas |
 | [📰 Daily News Emailer](https://github.com/rameshgehlot76/daily-news-emailer) | Automated news digest emailer with HTML formatting | Python, NewsAPI, SMTP |
 | [⚡ FastAPI Tutorial App](https://github.com/rameshgehlot76/fastapi-tutorial) | Production-ready REST API with MongoDB Atlas | FastAPI, MongoDB, Pydantic |
 | [🐍 Python Projects](https://github.com/rameshgehlot76/python-projects) | Chatbot, Banking System, OTP Generator and more | Python |
@@ -68,7 +72,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
---- 
+---
 
 ## 🏆 Certificates & Achievements
 
@@ -113,4 +117,4 @@
   <img src="https://komarev.com/ghpvc/?username=rameshgehlot76&color=00B4D8&style=for-the-badge" alt="Profile Views"/>
   <br/><br/>
   <i>Thanks for visiting my profile! Let's build something amazing together 🚀</i>
-</p>  
+</p>
