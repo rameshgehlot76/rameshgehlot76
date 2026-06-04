@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📈 StockLens](https://github.com/rameshgehlot76/stock-price-tracker) | Real-time stock tracker with interactive charts & moving averages | Python, Flask, yfinance, Plotly, pandas |
+| [📈 StockLens](https://github.com/rameshgehlot76/stock-price-tracker) | Real-time stock tracker with interactive charts & moving averages | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask) ![yfinance](https://img.shields.io/badge/yfinance-green) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) |
 | [⚡ Task Manager API](https://github.com/rameshgehlot76/task-manager-api) | RESTful CRUD API with Flask, SQLAlchemy and SQLite | Python, Flask, SQLAlchemy, SQLite |
 | [📰 Daily News Emailer](https://github.com/rameshgehlot76/daily-news-emailer) | Automated news digest emailer with HTML formatting | Python, NewsAPI, SMTP |
 | [🌐 API Projects](https://github.com/rameshgehlot76/api-projects) | Real-time currency converter, Pokémon API fetcher & FastAPI endpoints — hands-on REST API learning in Python | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) |
