@@ -54,6 +54,7 @@
 | [📈 StockLens](https://github.com/rameshgehlot76/stock-price-tracker) | Real-time stock tracker with interactive charts & moving averages | Python, Flask, yfinance, Plotly, pandas |
 | [⚡ Task Manager API](https://github.com/rameshgehlot76/task-manager-api) | RESTful CRUD API with Flask, SQLAlchemy and SQLite | Python, Flask, SQLAlchemy, SQLite |
 | [📰 Daily News Emailer](https://github.com/rameshgehlot76/daily-news-emailer) | Automated news digest emailer with HTML formatting | Python, NewsAPI, SMTP |
+| [🌐 API Projects](https://github.com/rameshgehlot76/api-projects) | Real-time currency converter, Pokémon API fetcher & FastAPI endpoints — hands-on REST API learning in Python | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) |
 | [⚡ FastAPI Tutorial App](https://github.com/rameshgehlot76/fastapi-tutorial) | Production-ready REST API with MongoDB Atlas | FastAPI, MongoDB, Pydantic |
 | [🐍 Python Projects](https://github.com/rameshgehlot76/python-projects) | Chatbot, Banking System, OTP Generator and more | Python |
 | [📚 Python Basics](https://github.com/rameshgehlot76/python-basics) | Python fundamentals practice scripts | Python |
