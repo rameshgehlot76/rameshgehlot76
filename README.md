@@ -58,7 +58,7 @@
 | [⚡ FastAPI Tutorial App](https://github.com/rameshgehlot76/fastapi-tutorial) | Production-ready REST API with MongoDB Atlas | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063) |
 | [🐍 Python Projects](https://github.com/rameshgehlot76/python-projects) | Chatbot, Banking System, OTP Generator and more | ![Python](https://img.shields.io/badge/Python-blue?logo=python) |
 | [📚 Python Basics](https://github.com/rameshgehlot76/python-basics) | Python fundamentals practice scripts | ![Python](https://img.shields.io/badge/Python-blue?logo=python) |
-| [🏦 JPMorgan Forage](https://github.com/rameshgehlot76/forage-midas) | JPMorgan Chase Advanced Software Engineering | Java, Spring Boot |
+| [🏦 JPMorgan Forage](https://github.com/rameshgehlot76/forage-midas) | JPMorgan Chase Advanced Software Engineering | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot) |
 
 ---
 
