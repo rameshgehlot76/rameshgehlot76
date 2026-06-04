@@ -56,7 +56,7 @@
 | [📰 Daily News Emailer](https://github.com/rameshgehlot76/daily-news-emailer) | Automated news digest emailer with HTML formatting | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![NewsAPI](https://img.shields.io/badge/NewsAPI-orange) ![SMTP](https://img.shields.io/badge/SMTP-grey?logo=gmail) |
 | [🌐 API Projects](https://github.com/rameshgehlot76/api-projects) | Real-time currency converter, Pokémon API fetcher & FastAPI endpoints — hands-on REST API learning in Python | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) |
 | [⚡ FastAPI Tutorial App](https://github.com/rameshgehlot76/fastapi-tutorial) | Production-ready REST API with MongoDB Atlas | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063) |
-| [🐍 Python Projects](https://github.com/rameshgehlot76/python-projects) | Chatbot, Banking System, OTP Generator and more | Python |
+| [🐍 Python Projects](https://github.com/rameshgehlot76/python-projects) | Chatbot, Banking System, OTP Generator and more | ![Python](https://img.shields.io/badge/Python-blue?logo=python) |
 | [📚 Python Basics](https://github.com/rameshgehlot76/python-basics) | Python fundamentals practice scripts | Python |
 | [🏦 JPMorgan Forage](https://github.com/rameshgehlot76/forage-midas) | JPMorgan Chase Advanced Software Engineering | Java, Spring Boot |
 
