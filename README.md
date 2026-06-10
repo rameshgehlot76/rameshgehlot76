@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me 
 
 - 🎓 Computer Science Undergraduate
 - 🌍 Based in Mumbai, India
