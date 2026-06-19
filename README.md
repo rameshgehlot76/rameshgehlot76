@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ramesh Gehlot 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=BSC+IT+Undergrad+%7C+Python;FastAPI+%7C+Flask+%7C+MongoDB+%7C+REST+APIs;Building+Real-World+Projects;Aspiring+Software+Engineer+at+MNCs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=BSC+IT+Undergrad;FastAPI+%7C+Flask+%7C+MongoDB+%7C+REST+APIs;Building+Real-World+Projects;Aspiring+Software+Engineer+at+MNCs" alt="Typing SVG" />
 </p>
 
 ---
