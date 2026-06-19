@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science Undergraduate
 - 🌍 Based in Mumbai, India
-- 🚀 Passionate about building real-world projects
+- 🚀 Passionate about building Real-World Projects 
 - 🤖 Learning AI/ML
 - 🎯 Goal: Land a role at a top MNC as a Software Engineer
 - 📬 Reach me at: [LinkedIn](https://www.linkedin.com/in/ramesh-gehlot-527236372)
