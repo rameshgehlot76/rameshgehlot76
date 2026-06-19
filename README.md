@@ -72,7 +72,6 @@
 
 - 🥇 **HP LIFE** — AI Fundamentals Certificate
 - 🥇 **EY & Microsoft** — Technology Certificate
-- 💼 **JPMorgan Chase** — Advanced Software Engineering (Forage)
 
 ---
 
