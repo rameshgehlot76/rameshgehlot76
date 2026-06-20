@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me 
 
-- 🎓 BSc IT Undergraduate
+- 🎓 BSC IT Undergraduate
 - 🌍 Based in Mumbai, India
 - 🚀 Passionate about building Real-World Projects 
 - 🤖 Learning AI/ML
