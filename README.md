@@ -75,12 +75,6 @@
 
 ---
 
-## 📈 Currently Learning
-
-- 🤖 Machine Learning & AI
-  
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
