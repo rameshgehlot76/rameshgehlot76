@@ -78,7 +78,6 @@
 ## 📈 Currently Learning
 
 - 🤖 Machine Learning & AI
-- 🔗 REST API Design Patterns
   
 ---
 
