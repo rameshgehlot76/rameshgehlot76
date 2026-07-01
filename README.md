@@ -79,7 +79,6 @@
 
 - 🤖 Machine Learning & AI
 - 🔗 REST API Design Patterns
-- ☁️ Cloud Deployment (AWS/Heroku)
   
 ---
 
